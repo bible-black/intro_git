@@ -1,3 +1,7 @@
 gitの練習
 
 gitの変更コミット
+
+git add 
+git commit
+git rm
